@@ -1,7 +1,7 @@
 # Objetivo
 Repositorio para contenido de los videos correspondientes a la lista de reproducción de entrevistas que contendrá el canal de YouTube de JEspañol sobre Javeros de Colombia 2018.
 
-image:https://badges.gitter.im/EventosJEspanol/Lobby.svg[link="https://gitter.im/EventosJEspanol/Lobby"]
+[![Gitter](https://img.shields.io/gitter/room/EventosJEspanol/Lobby.svg?style=flat-square)](https://gitter.im/EventosJEspanol/Lobby)
 
 ## ¿Cómo colaborar en este repositorio?
 1. Revisar los Issues de la columna To do del proyecto: https://github.com/cesarhernandezgt/canal-YouTube/projects/1

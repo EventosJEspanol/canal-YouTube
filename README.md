@@ -1,4 +1,5 @@
 # canal-YouTube
 Repositorio para contenido del canal de YouTube.
 
-image:https://badges.gitter.im/EventosJEspanol/Lobby.svg[link="https://gitter.im/EventosJEspanol/Lobby"]
+[![Gitter](https://img.shields.io/gitter/room/EventosJEspanol/Lobby.svg?style=flat-square)](https://gitter.im/EventosJEspanol/Lobby)
+
